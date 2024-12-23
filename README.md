@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boyyveedo
-- 👀 I’m interested in Backend Dev
-- 🌱 I’m currently learning MongoDB Express Nodejs React Typescript
+- 👀 I’m a backend developer (MERN)
+- 🌱 I’m currently learning Go 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me talktoboyveedo@gmail.com
 - 😄 Pronouns: ...
